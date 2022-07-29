@@ -4,5 +4,6 @@ public class Student{
     private String st_class;
     public print(){
 	// this is a empty function..
+        system.out.print("printing student info.");
     }
 }
